@@ -7,6 +7,6 @@ $(function() {
 
         $('body').css('background', '#' + $x + $y);
 
-    })
+    });
 
-})
+});
